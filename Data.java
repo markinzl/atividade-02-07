@@ -1,14 +1,14 @@
 
 public class Data {
 
-    int dia; 
+    int dia;
     int mes;
-    int ano; 
+    int ano;
 
-    Data (int d, int m, int a ) { 
+    Data(int d, int m, int a) {
 
-    dia = d;
-    mes=  m; 
-    ano = a;
-}
+        dia = d;
+        mes = m;
+        ano = a;
     }
+}
